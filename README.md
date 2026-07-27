@@ -192,13 +192,13 @@ string motto =
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/sawarn-nik">
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nikhil05122005@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 
@@ -210,7 +210,7 @@ string motto =
 
 </a>
 
-<a href="https://leetcode.com/sawarn-nik">
+<a href="https://leetcode.com/sawarn_nik">
 
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
 
@@ -470,7 +470,7 @@ Contextual Probabilistic AI Enabled Multimodal Trip Planning using Large Languag
 
 <div align="center">
 
-<a href="https://leetcode.com/sawarn-nik">
+<a href="https://leetcode.com/sawarn_nik">
 <img src="https://leetcard.jacoblin.cool/sawarn-nik?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </a>
 
@@ -581,7 +581,7 @@ while(alive)
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/sawarn-nik">
+<a href="https://leetcode.com/sawarn_nik">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
