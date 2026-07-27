@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030712,35:0F172A,70:312E81,100:020617&height=230&section=header&text=Nikhil%20Kumar&fontSize=72&fontColor=E2E8F0&fontAlignY=40&desc=%3E_%20AI%20Developer%20%7C%20Researcher%20%7C%20Software%20Engineer&descAlignY=63&descColor=38BDF8&animation=fadeIn&stroke=7C3AED&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030712,35:0F172A,70:312E81,100:020617&height=230&section=header&text=Nikhil%20Kumar&fontSize=72&fontColor=E2E8F0&fontAlignY=40&desc=AI%20Developer%20%7C%20Software%20Engineer%20%7C%20IIT%20Kharagpur"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <a href="https://git.io/typing-svg">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Developer;Software+Engineer;Research+Intern".../>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Developer;Software+Engineer;Research+Intern+%40+IIT+Kharagpur;LLM+%26+Graph+Neural+Networks;Backend+Systems+Developer"/>
 
 </a>
 
@@ -529,7 +529,7 @@ Contextual Probabilistic AI Enabled Multimodal Trip Planning using Large Languag
 
 ---
 
-# 🎯 2026 Goals
+# ���� 2026 Goals
 
 - ✅ Publish AI Research
 - ✅ Contribute to Open Source
