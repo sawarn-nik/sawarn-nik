@@ -471,7 +471,7 @@ Contextual Probabilistic AI Enabled Multimodal Trip Planning using Large Languag
 <div align="center">
 
 <a href="https://leetcode.com/sawarn_nik">
-<img src="https://leetcard.jacoblin.cool/sawarn-nik?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/sawarn_nik?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </a>
 
 <br><br>
@@ -484,13 +484,6 @@ Contextual Probabilistic AI Enabled Multimodal Trip Planning using Large Languag
 
 ---
 
-# 📊 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sawarn-nik&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
-
-</div>
 
 ---
 
@@ -498,9 +491,22 @@ Contextual Probabilistic AI Enabled Multimodal Trip Planning using Large Languag
 
 <div align="center">
 
-> **Note:** This works after setting up a GitHub Action.
+> **Note:** This animation is automatically generated using GitHub Actions and updates as you contribute.
 
-![Snake animation](https://raw.githubusercontent.com/sawarn-nik/sawarn-nik/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sawarn-nik/sawarn-nik/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sawarn-nik/sawarn-nik/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/sawarn-nik/sawarn-nik/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
