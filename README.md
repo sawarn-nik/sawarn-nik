@@ -18,9 +18,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sawarn-nik&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=38BDF8"/>
+<img src="https://img.shields.io/github/followers/sawarn-nik?style=for-the-badge&color=38BDF8"/>
 
 <img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
 
@@ -204,13 +204,13 @@ string motto =
 
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sawarn-nik">
 
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE">
+<a href="https://leetcode.com/sawarn-nik">
 
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
 
@@ -428,13 +428,13 @@ Contextual Probabilistic AI Enabled Multimodal Trip Planning using Large Languag
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=false"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sawarn-nik&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=false"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sawarn-nik&theme=tokyonight"/>
 
 <br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawarn-nik&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -444,7 +444,7 @@ Contextual Probabilistic AI Enabled Multimodal Trip Planning using Large Languag
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sawarn-nik&theme=tokyo-night&hide_border=true"/>
 
 </div>
 ---
@@ -470,14 +470,14 @@ Contextual Probabilistic AI Enabled Multimodal Trip Planning using Large Languag
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+<a href="https://leetcode.com/sawarn-nik">
+<img src="https://leetcard.jacoblin.cool/sawarn-nik?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </a>
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="100%" />
+<a href="https://github.com/sawarn-nik">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawarn-nik&theme=tokyonight" width="100%" />
 </a>
 
 </div>
@@ -488,7 +488,7 @@ Contextual Probabilistic AI Enabled Multimodal Trip Planning using Large Languag
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sawarn-nik&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -500,7 +500,7 @@ Contextual Probabilistic AI Enabled Multimodal Trip Planning using Large Languag
 
 > **Note:** This works after setting up a GitHub Action.
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/sawarn-nik/sawarn-nik/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -510,7 +510,7 @@ Contextual Probabilistic AI Enabled Multimodal Trip Planning using Large Languag
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7C3AED/YOUR_USERNAME" width="95%"/>
+<img src="https://ghchart.rshah.org/7C3AED/sawarn-nik" width="95%"/>
 
 </div>
 
@@ -569,19 +569,19 @@ while(alive)
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/sawarn-nik">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nikhil05122005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sawarn-nik">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE">
+<a href="https://leetcode.com/sawarn-nik">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -595,7 +595,7 @@ If you like my work, consider giving a ⭐ to my repositories.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/sawarn-nik?tab=repositories">
 <img src="https://img.shields.io/badge/Explore%20My%20Repositories-7C3AED?style=for-the-badge"/>
 </a>
 
